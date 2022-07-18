@@ -1,0 +1,25 @@
+.Home{
+    width:95%;
+    margin: auto;
+}
+.banner img{
+    width:100%;
+}
+.demo{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px;
+}
+.demo-card{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    width:95%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.image-div img{
+    width:400px;
+}

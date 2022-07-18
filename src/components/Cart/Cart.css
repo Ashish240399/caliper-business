@@ -1,0 +1,35 @@
+.Cart-page{
+    width:55%;
+    margin-left: 40px;
+}
+.card{
+    display: flex;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding:10px;
+}
+.card>div:nth-child(1){
+    display: flex;
+    gap:50px;
+}
+.card img{
+    width:200px;
+}
+.check-btn{
+    background-color: rgb(132, 249, 59);
+    width:300px;
+    border:none;
+    padding:15px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.coupon-input{
+    width:265px;
+    padding:15px;
+    font-size: 17px;
+}
+.coupon-input:focus{
+    outline: none;
+}

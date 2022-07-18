@@ -1,0 +1,11 @@
+.pro-detail{
+    display: flex;
+}
+.pro-detail>div>img{
+    width:500px;
+    margin-right: 40px;
+}
+.details{
+    width:95%;
+    margin: auto;
+}

@@ -1,0 +1,27 @@
+.show{
+    position: fixed;
+    top:800px;
+  }
+/* .dont_show{
+    display: none;
+} */
+.All-products{
+  width:95%;
+  margin: auto;
+}
+.cart-btn{
+  width:90%;
+  padding:15px;
+  background-color:  rgb(132, 249, 59);
+  border:none;
+  font-size: 17px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+.demo-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

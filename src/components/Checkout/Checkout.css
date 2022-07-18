@@ -1,0 +1,8 @@
+.checkout-page{
+    width:55%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}

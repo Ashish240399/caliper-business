@@ -1,0 +1,16 @@
+.button{
+    position: fixed;
+    top:600px;
+    left:2px;
+    width: 160px;
+    padding:14px;
+    border-radius: 20px;
+    background-color: rgb(247, 4, 32);
+    border: none;
+    color:white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.not_button{
+    display: none;
+}

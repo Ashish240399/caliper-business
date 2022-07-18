@@ -1,0 +1,210 @@
+{
+  "hydroponic": [
+    {
+      "id": "1",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/1/8/18-plants-system_1.jpeg",
+      "title": "Grow system - 18 Plants NFT System",
+      "price": 8500,
+      "size": "3.28 ft X 2 ft X 2 ft"
+    },
+    {
+      "id": "2",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/h/a/half-pyramid-40-plants-system_1.jpg",
+      "title": "Grow System - 52 plants Vertical NFT System",
+      "price": 19500,
+      "size": "6.7 ft X 2 ft X 5 ft"
+    },
+    {
+      "id": "3",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/i/m/img_9027.jpg",
+      "title": "Grow System - 52 plants Indoor NFT System",
+      "price": 26500,
+      "size": "6.7 ft X 3.67 ft X 4 ft"
+    },
+    {
+      "id": "4",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/l/i/linear-nft-system-52-plants.jpeg",
+      "title": "Grow System - Linear NFT System (52 plants)",
+      "price": 14500,
+      "size": "6.7 ft X 2.5 ft X 2 ft"
+    },
+    {
+      "id": "5",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/d/u/dutch-bucket-system.png",
+      "title": "Grow System - 5 Plants",
+      "price": 4500,
+      "size": "Thе Dutсh Buсkеt іѕ bаѕісаllу a 10 liters"
+    }
+  ],
+  "NFT_Systems": [
+    {
+      "linear_grow_system": [
+        {
+          "id": "6",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/l/i/linear-nft-system-52-plants.jpeg",
+          "title": "Grow System - Linear NFT System (52 plants)",
+          "price": 14500,
+          "size": "6.7 ft X 2.5 ft X 2 ft"
+        },
+        {
+          "id": "7",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/5/2/52-plants-linear-system_2.jpg",
+          "title": "Grow System - Linear NFT System (152 plants)",
+          "price": 31500,
+          "size": "10 ft X 5.5 ft X 2 ft"
+        },
+        {
+          "id": "8",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/1/8/18-plants-system_1.jpeg",
+          "title": "Grow system - 18 Plants NFT System",
+          "price": 8500,
+          "size": "3.28 ft X 2 ft X 2 ft"
+        },
+        {
+          "id": "9",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/i/m/img_9046.jpg",
+          "title": "Grow system - 26 Plants NFT System",
+          "price": 10500,
+          "size": " 6.7 ft X 2 ft X 2 ft"
+        },
+        {
+          "id": "10",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/l/i/linear-nft-system-52-plants_1.jpeg",
+          "title": "Grow system - 36 Plants NFT System",
+          "price": 13500,
+          "size": "5 ft X 2.75 ft X 2 ft"
+        }
+      ],
+      "vertical_grow_system": [
+        {
+          "id": "11",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/h/y/hydroponics-190plants-pyramid-system_2.jpg",
+          "title": "Grow System - 190 Plants NFT System",
+          "price": 53000,
+          "size": "10 ft X 5 ft X 6 ft"
+        },
+        {
+          "id": "12",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/h/a/half-pyramid-40-plants-system_1.jpg",
+          "title": "Grow System - 52 plants Vertical NFT System",
+          "price": 19500,
+          "size": "6.7 ft X 2 ft X 5 ft"
+        },
+        {
+          "id": "13",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/h/a/half-pyramid-40-plants-system_1.jpg",
+          "title": "Grow System - 36 plants Vertical NFT System",
+          "price": 16500,
+          "size": "5 ft X 2 ft X 5 ft"
+        },
+        {
+          "id": "14",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/h/y/hydroponics-190plants-pyramid-system_2.jpg",
+          "title": "Grow System - 228 plants NFT System",
+          "price": 61000,
+          "size": "10 ft X 5.75 ft X 7 ft"
+        },
+        {
+          "id": "15",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/h/y/hydroponics-190plants-pyramid-system_2.jpg",
+          "title": "Grow System - 456 plants NFT System",
+          "price": 84500,
+          "size": "20 ft X 5.75 ft X 7 ft"
+        }
+      ],
+      "indoor_grow_system": [
+        {
+          "id": "16",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/i/m/img_9027.jpg",
+          "title": "Grow System - 52 plants Indoor NFT System",
+          "price": 26500,
+          "size": "6.7 ft X 3.67 ft X 4 ft"
+        },
+        {
+          "id": "17",
+          "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/i/n/indoor-system.jpeg",
+          "title": "Grow System - 18 Plants Indoor NFT System",
+          "price": 12500,
+          "size": "3.28 ft X 2 ft X 4 ft"
+        }
+      ]
+    }
+  ],
+  "dutch-bucket-system": [
+    {
+      "id": "18",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/d/u/dutch-bucket-system.png",
+      "title": "Grow System - 5 Plants",
+      "price": 4500,
+      "size": "Thе Dutсh Buсkеt іѕ bаѕісаllу a 10 liters"
+    },
+    {
+      "id": "19",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/d/u/dutch-bucket-system.png",
+      "title": "Grow System - 10 Plants",
+      "price": 7500,
+      "size": "Thе Dutсh Buсkеt іѕ bаѕісаllу a 20 liters"
+    },
+    {
+      "id": "20",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/small_image/300x300/e627663f9830806f6a858736f7b7cabf/d/u/dutch-bucket-system.jpg",
+      "title": "Grow System - 30 Plants",
+      "price": 21000,
+      "size": "Thе Dutсh Buсkеt іѕ bаѕісаllу a 60 liters"
+    }
+  ],
+  "dwc-system": [
+    {
+      "id": "21",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/d/w/dwc_2.jpg",
+      "title": "Deep Water Culture - 32sqft",
+      "price": 16000,
+      "size": "450 GSM Tarpaulin used for DWC pond liner"
+    },
+    {
+      "id": "22",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/k/r/kratky-method-dwc.png",
+      "title": "12 Plants Growing Kit DWC",
+      "price": 1800,
+      "size": "The plants are suspended from the lid of the container. The container acts as a reservoir. It is easy to assemble and is very compact. It comes with 12 plant spaces."
+    }
+  ],
+  "microgreen-kits": [
+    {
+      "id": "23",
+      "image": "https://hydrilla.in/store/media/catalog/product/cache/2/image/600x600/958f60a396114865c6863491507366d5/g/r/growing-pea-shoots-sprouts-microgreens-3903-640x427.jpg",
+      "title": "Microgreens Growing Kit",
+      "price": 1750,
+      "size": "Growing Tray (24-inch X 16 inch X 2 inch) – 2"
+    }
+  ],
+  "sliding_images": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk26WwECuP9ZK3CccqUxq7GcmRwHpNY5AJiA&usqp=CAU"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Bg-eNP77pk21jwwbhvFk0n0chY0-jFTHtQ&usqp=CAU"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaX-s-uITohkKrVWVWRFYQOvjL35NCdxioA&usqp=CAU"
+    }
+  ],
+  "users": [
+    {
+      "first_name": "Ashish",
+      "last_name": "mohanty",
+      "email": "a@gmail.com",
+      "phone": "070088 65028",
+      "password": "Ashish7797",
+      "id": 4
+    },
+    {
+      "first_name": "Askjlpe",
+      "last_name": "mohanty",
+      "email": "rupali@gmail.com",
+      "phone": "070088 65028",
+      "password": "Ashish7797",
+      "id": 5
+    }
+  ]
+}
